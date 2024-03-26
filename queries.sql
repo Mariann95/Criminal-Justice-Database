@@ -1,5 +1,3 @@
--- In this SQL file, write (and comment!) the typical SQL queries users will run on your database
-
 -- Add locations
 INSERT INTO "locations" ("country", "zip_code", "state/county", "city")
 VALUES
